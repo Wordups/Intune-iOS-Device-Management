@@ -51,3 +51,21 @@ Intune-iOS-Device-Management/
 │   ├── MDM_Authority_Setup.md
 │   ├── Troubleshooting.md
 │   ├── Lessons_Learned.md
+
+
+📸 Screenshots
+Device Enrollment
+
+Compliance Dashboard
+
+App Deployment
+
+🛠️ Tools and Skills Demonstrated
+Microsoft Intune: MDM Authority setup, iOS device management.
+Compliance Policies: Passcode rules, app restrictions, and notifications.
+App Deployment: Zero-touch deployment of required apps.
+PowerShell Scripting: Automated compliance reporting and monitoring.
+📑 Documentation
+MDM Authority Setup
+Troubleshooting Guide
+Lessons Learned
