@@ -1,7 +1,4 @@
 # Intune-iOS-Device-Management
-This repository demonstrates iOS device management using Microsoft Intune, including compliance policies, app deployment, and troubleshooting
-# **Intune iOS Device Management**
-
 ## 📋 Overview
 This repository showcases my expertise in managing iOS devices using Microsoft Intune. The project includes the following key areas:
 - Setting up and configuring Intune for iOS device management.
