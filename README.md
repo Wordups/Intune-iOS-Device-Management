@@ -20,10 +20,10 @@ In this phase, the **Intune environment** was configured, including setting up *
 - Configured **Intune** environment for **device management**.
 - Set up **MDM authority** to manage iOS devices.
 - Ensured all necessary **security policies** and **enrollment settings** were configured for smooth device enrollment.
-  
+
 **Screenshots**: 
-- [MDM Authority Settings](./images/mdm_authority_settings.png)
-- [Device Enrollment Configuration](./images/device_enrollment_configuration.png)
+- ![MDM Authority Settings](./images/mdm_authority_settings.png)
+- ![Device Enrollment Configuration](./images/device_enrollment_configuration.png)
 
 ---
 
@@ -35,8 +35,8 @@ The devices were enrolled into **Intune** using **manual enrollment** methods th
 - Device settings like **Wi-Fi**, **VPN**, and **email** were automatically configured.
 
 **Screenshots**:
-- [Device Enrollment Success](./images/device_enrollment_success.png)
-- [Profile Installation](./images/profile_installation.png)
+- ![Device Enrollment Success](./images/device_enrollment_success.png)
+- ![Profile Installation](./images/profile_installation.png)
 
 ---
 
@@ -47,8 +47,8 @@ This step integrates **PKI** for managing certificates used in securing **Wi-Fi*
 - **Certificate profiles** were configured for **Wi-Fi** and **VPN** connectivity, utilizing **PKI** for authentication.
 
 **Screenshots**:
-- [PKI Configuration](./images/pki_configuration.png)
-- [Certificate Profiles](./images/certificate_profiles.png)
+- ![PKI Configuration](./images/pki_configuration.png)
+- ![Certificate Profiles](./images/certificate_profiles.png)
 
 ---
 
@@ -59,8 +59,8 @@ This step integrates **PKI** for managing certificates used in securing **Wi-Fi*
 - **Conditional Access** policies were configured to allow only compliant devices to access corporate apps.
 
 **Screenshots**:
-- [MIM Integration](./images/mim_integration.png)
-- [Conditional Access Policies](./images/conditional_access_policies.png)
+- ![MIM Integration](./images/mim_integration.png)
+- ![Conditional Access Policies](./images/conditional_access_policies.png)
 
 ---
 
@@ -71,8 +71,8 @@ Devices were managed by applying various **compliance policies** and distributin
 - **Corporate apps** were distributed to the enrolled devices through **Intune**.
 
 **Screenshots**:
-- [Compliance Policies](./images/compliance_policies.png)
-- [App Deployment](./images/app_deployment.png)
+- ![Compliance Policies](./images/compliance_policies.png)
+- ![App Deployment](./images/app_deployment.png)
 
 ---
 
@@ -84,8 +84,8 @@ The **Intune Admin Console** was used to monitor the devices for compliance, man
 - **Device health** was continuously checked to ensure they met corporate security standards.
 
 **Screenshots**:
-- [Device Compliance Dashboard](./images/device_compliance_dashboard.png)
-- [Profile Update](./images/profile_update.png)
+- ![Device Compliance Dashboard](./images/device_compliance_dashboard.png)
+- ![Profile Update](./images/profile_update.png)
 
 ---
 
@@ -96,8 +96,8 @@ End-user experience was carefully considered, and support was provided for any *
 - Support was provided to users experiencing **non-compliant devices** or enrollment issues.
 
 **Screenshots**:
-- [Company Portal User Interface](./images/company_portal_user_interface.png)
-- [Support Desk Scenario](./images/support_desk_scenario.png)
+- ![Company Portal User Interface](./images/company_portal_user_interface.png)
+- ![Support Desk Scenario](./images/support_desk_scenario.png)
 
 ---
 
