@@ -22,7 +22,7 @@ In this phase, the **Intune environment** was configured, including setting up *
 - Ensured all necessary **security policies** and **enrollment settings** were configured for smooth device enrollment.
 
 **Screenshots**: 
-- ![MDM Authority Settings](./images/mdm_authority_settings.png)
+- ![MDM Authority Settings](./images/mdm)
 - ![Device Enrollment Configuration](./images/device_enrollment_configuration.png)
 
 ---
